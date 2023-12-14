@@ -1,0 +1,5 @@
+homepage: "https://countly.com/"
+documentation: "https://support.count.ly/hc/en-us/articles/360037441932-Web-analytics-JavaScript-"
+versions:
+  - sha: 6da569542224bb2d594141609ff67bef6e594296
+    changeNotes: Initial release.
